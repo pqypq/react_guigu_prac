@@ -1,8 +1,8 @@
-// import the core of react
+// 引入react核心库
 import React from 'react'
-// import the ReactDOM
+// 引入ReactDOM
 import ReactDOM from 'react-dom/client'
-// import App
+// 引入App组件
 import App from './App'
 
 // 渲染App到页面
@@ -12,3 +12,4 @@ root.render(
       <App />
     </React.StrictMode>
 );
+
